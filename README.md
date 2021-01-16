@@ -1,2 +1,2 @@
 # Projects_go
-Simple projects in golsng.
+Simple projects in golang.
