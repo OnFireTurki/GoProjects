@@ -1,0 +1,13 @@
+{
+    "apis" :[
+        {
+        "url": "https://i.instagram.com/api/v1/accounts/create/",
+        "payload": "phone_id=90753b9b-e663-44f8-a0c5-aff0761f16e8&device_id=90753b9b-e663-44f8-a0c5-aff0761f16e8&username=%s&password=5bub@here&email=%s5bub22222c@gmail.com&first_name=Go&_csrftoken=%s"
+    },
+    {
+        "url": "https://i.instagram.com/api/v1/accounts/create_business/",
+        "payload": "phone_id=90753b9b-e663-44f8-a0c5-aff0761f16e8&device_id=90753b9b-e663-44f8-a0c5-aff0761f16e8&username=%s&password=5bub@here&email=%s5bub22222c@gmail.com&first_name=Go&_csrftoken=%s"
+    }
+    ],
+    "threads": 2
+}

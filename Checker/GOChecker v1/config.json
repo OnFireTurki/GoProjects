@@ -1,0 +1,13 @@
+{
+    "accounts" :[
+        {
+        "username": "e",
+        "password": "e"
+    },
+    {
+        "username": "e",
+        "password": "e"
+    }
+    ],
+    "threads": 2
+}
