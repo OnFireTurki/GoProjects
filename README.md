@@ -1,7 +1,6 @@
 # GoProjects
 
-Simple projects in golang.
-Two Versions of instagram checkers and Targeting Turbo
+**Simple projects in golang.**
 
 # Libraries:
 GoChecker v2 :
@@ -9,5 +8,4 @@ GoChecker v2 :
 go get -u github.com/valyala/fasthttp
 ```
 # Important Note:
-
-All these projects are just for the purpose of learning.
+All these projects are just for the purpose of education.
